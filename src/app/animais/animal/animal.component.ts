@@ -28,5 +28,4 @@ export class AnimalComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
-  
 }
